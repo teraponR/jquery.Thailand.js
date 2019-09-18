@@ -1,0 +1,22 @@
+{
+  "name": "jthailand",
+  "version": "1.0.0",
+  "description": "jquery.Thailand.js",
+  "main": "jquery.Thailand.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teraponR/jquery.Thailand.js.git"
+  },
+  "keywords": [
+    "jquery.Thailand.js"
+  ],
+  "author": "earthchie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teraponR/jquery.Thailand.js/issues"
+  },
+  "homepage": "https://github.com/teraponR/jquery.Thailand.js#readme"
+}
